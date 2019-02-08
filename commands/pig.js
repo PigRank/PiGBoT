@@ -1,0 +1,3 @@
+exports.run = (client, message, args) => {
+    message.channel.send("Believe in Piggianity today. Pigs are an underrated race, they feed us, and are amazing in general. They deserve to be honored and loved as much as dogs, or even more than the normal loved animal. Piggianity is a religion where people of the Pig Clan unite forces to further expand the knowings of pigs, and their very interesting history and philosophy. We honor King Pig, and the [PIG] rank. Help our mission by believing in Piggianity today.").catch(console.error);
+}
